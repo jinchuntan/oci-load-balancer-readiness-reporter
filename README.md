@@ -102,8 +102,13 @@ oci os object head `
   --name "lb-readiness-report/<artifact-file-name>"
 ```
 
+### Output
+<img width="805" height="120" alt="image" src="https://github.com/user-attachments/assets/771044a4-2d74-4ab0-96ae-46b19e8aafd6" />
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/2491575c-2b88-446e-8cf9-4c3a25e1b223" />
+
 ## Safety
 
 - Read-only API calls to Load Balancer/Compute/Networking/Identity
 - Only write operation is Object Storage upload
 - No create/update/delete resource actions
+
